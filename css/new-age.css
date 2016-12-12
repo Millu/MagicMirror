@@ -357,6 +357,7 @@ section.contact ul.list-social li a {
   border-radius: 100%;
   color: white;
 }
+section.contact ul
 section.contact ul.list-social li.social-twitter a {
   background-color: #1da1f2;
 }
@@ -397,6 +398,7 @@ footer ul li a:focus,
 footer ul li a:active,
 footer ul li a.active {
   text-decoration: none;
+  color: #fdcc52;
 }
 .bg-primary {
   background: #fdcc52;
