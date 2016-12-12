@@ -1,5 +1,7 @@
 # Magic Mirror
-A website for the Magic Mirror
+A website for the Magic Mirror.
+
+***millun.me/magicmirror***
 
 **Contributors:**
 * Nathan Somavarapu
